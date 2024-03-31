@@ -4,11 +4,10 @@
 
 ## Part 1: Describe the concepts of security, compliance, and identity
 
-* Describe the shared responsibility and the defense in-depth security models.
- 
+1-Describe the shared responsibility and the defense in-depth security models.
+
+2-Describe the Zero-Trust model.
   
-* Describe the Zero-Trust model.
+3-Describe the concepts of encryption and hashing.
   
-* Describe the concepts of encryption and hashing.
-  
-* Describe some basic compliance concepts.
+4-Describe some basic compliance concepts.
